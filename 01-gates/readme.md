@@ -1,4 +1,4 @@
-# Lab 1: Jiøí Pitour
+# Lab 1: Jiri Pitour
 
 ### De Morgan's laws
 
